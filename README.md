@@ -67,10 +67,10 @@
             <input type="tel" id="phone" name="phone" placeholder="Nhập số điện thoại" required>
             <label for="date">Ngày sinh</label>
             <input type="date" id="date" name="date" required>
-            <button class="btn" onclick="window.location.href='https://tructamcute.github.io/nhom6_12L/'">
-                Đặt vé
-            </button>
         </form>
+        <button class="btn" onclick="window.location.href='https://tructamcute.github.io/nhom6_12L/'">
+                Đặt vé
+        </button>
     </div>
 </body>
 </html>

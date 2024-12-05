@@ -1,0 +1,15 @@
+a{
+    margin: 40px;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 4px #000;
+    animation: color 8s infinite;
+}
+@keyframes color {
+    0% {color:blue;}
+    25% {color:red;}
+    50% {color:black;}
+    75% {color:rgb(238, 0, 255);}
+    100% {color:rgb(47, 255, 0);}
+}

@@ -54,10 +54,11 @@
             background-color: #0056b3;
         }
     </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="form-container">
-        <h2>Đăng kí thành viên</h2>
+        <a>Đăng kí thành viên</a>
         <form action="/submit-tour" method="POST">
             <label for="fullname">Họ và Tên</label>
             <input type="text" id="fullname" name="fullname" placeholder="Nhập họ và tên của bạn" required>

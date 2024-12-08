@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biểu Mẫu Đặt Vé Du Lịch</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -69,7 +68,7 @@
             <input type="date" id="date" name="date" required>
         </form>
         <button class="btn" onclick="window.location.href='https://tructamcute.github.io/nhom6_12L/'">
-                Đặt vé
+                Đăng kí 
         </button>
     </div>
 </body>
